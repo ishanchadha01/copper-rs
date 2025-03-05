@@ -1,0 +1,15 @@
+[package]
+name = "cu-dds-src"
+description = "Copper source task for Iceoryx2. I allows Copper to receive messages from Iceoryx2."
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+keywords.workspace = true
+categories.workspace = true
+homepage.workspace = true
+repository.workspace = true
+
+[dependencies]
+rustdds = { version = "0.11.3" }
+cu29 = { workspace = true }

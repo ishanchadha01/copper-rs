@@ -1,6 +1,6 @@
 [package]
 name = "cu-dds-src"
-description = "Copper source task for Iceoryx2. I allows Copper to receive messages from Iceoryx2."
+description = "Copper source task for DDS. I allows Copper to receive messages from DDS."
 version.workspace = true
 authors.workspace = true
 edition.workspace = true
